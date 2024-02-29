@@ -1,6 +1,7 @@
 # lab-github-actions
 
 [![Build Status](https://github.com/neodroid/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/neodroid/lab-github-actions/actions)
+[![codecov](https://codecov.io/gh/neodroid/lab-github-actions/graph/badge.svg?token=A3R17YIGD0)](https://codecov.io/gh/neodroid/lab-github-actions)
 
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
